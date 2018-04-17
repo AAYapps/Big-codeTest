@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="history">History</string>
+    <string name="movieAdd">Add</string>
+    <string name="imdb_number">IMDB number</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
